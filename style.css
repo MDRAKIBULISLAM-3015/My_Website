@@ -607,7 +607,6 @@ nav .fa-solid {
   text-align: center;
   padding: 10px;
   z-index: 100;
-  display: none;
   filter: brightness(80%);
   background-color: #fff;
   font-size: 30px;
